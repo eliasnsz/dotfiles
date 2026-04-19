@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "js/ts.suggest.autoImports": true,
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "symbols",
+    "[prisma]": {
+        "editor.formatOnSave": true
+    },
+}

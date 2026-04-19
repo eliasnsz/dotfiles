@@ -1,0 +1,7 @@
+astro-build.astro-vscode
+biomejs.biome
+github.copilot-chat
+miguelsolorio.min-theme
+miguelsolorio.symbols
+mvllow.rose-pine
+prisma.prisma
