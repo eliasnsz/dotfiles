@@ -3,6 +3,7 @@ astro-build.astro-vscode
 biomejs.biome
 catppuccin.catppuccin-vsc
 github.copilot-chat
+google.gemini-cli-vscode-ide-companion
 miguelsolorio.min-theme
 miguelsolorio.symbols
 ms-python.debugpy

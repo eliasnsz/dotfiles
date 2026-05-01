@@ -1,4 +1,5 @@
 {
+    "workbench.colorTheme": "Nord",
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontSize": 14,
     "editor.lineHeight": 24,
@@ -14,4 +15,5 @@
     "[prisma]": {
         "editor.formatOnSave": true
     },
+    "editor.defaultFormatter": "biomejs.biome",
 }
