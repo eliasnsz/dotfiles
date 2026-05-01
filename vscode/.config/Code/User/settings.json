@@ -16,4 +16,7 @@
         "editor.formatOnSave": true
     },
     "editor.defaultFormatter": "biomejs.biome",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.browser.showInTitleBar": false,
 }
